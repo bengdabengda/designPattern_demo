@@ -10,7 +10,7 @@
 package com.sun.demo.gongchang.jiandangongchang;
 
 /**
- * 一句话功能简述
+ * 测试方法
  *
  * @author sun
  * @create 2019/3/1

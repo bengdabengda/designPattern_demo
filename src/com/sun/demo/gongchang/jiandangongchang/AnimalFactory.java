@@ -10,7 +10,7 @@
 package com.sun.demo.gongchang.jiandangongchang;
 
 /**
- * 一句话功能简述
+ * 工厂类，根据传入参数不同创建不同对象
  *
  * @author sun
  * @create 2019/3/1
