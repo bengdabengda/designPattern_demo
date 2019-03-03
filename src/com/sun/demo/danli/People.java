@@ -5,7 +5,7 @@ package com.sun.demo.danli;
  */
 public class People {
 
-    private static People people = new People();
+    private final static People people = new People();//final修饰，因为是唯一对象，且不会改变
 
     private People(){
         System.out.println("people生成");
